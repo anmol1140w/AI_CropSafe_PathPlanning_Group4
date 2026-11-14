@@ -1,0 +1,5 @@
+Planner,Reached,Journey Length,Journey Cost,Replanning Ops,Total Expanded,Execution Time (ms)
+BFS,True,38,50.0,0,299,1.38
+DFS,True,208,328.0,1,379,2.681
+Greedy Best-First,True,40,42.0,0,41,1.079
+A* (Crop-Safe),True,48,57.0,1,239,2.514

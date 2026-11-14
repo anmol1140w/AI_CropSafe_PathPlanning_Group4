@@ -1,0 +1,6 @@
+Algorithm,Reached,Path Length,Path Cost,Expanded Nodes,Execution Time (ms)
+BFS,True,38,50.0,299,0.382
+DFS,True,108,177.0,178,0.236
+Greedy Best-First,True,40,42.0,41,0.069
+A* (Crop-Safe),True,38,38.0,167,0.366
+A* (No Penalty),True,38,50.0,299,0.636
